@@ -39,11 +39,13 @@ def adding_matz
       },
       :alan_kay => {
         :known_for => "Object Orientation",
-        :languages => ["Smalltalk", "LISP"]
+        :languages => ["Smalltalk", "LISP"] , 
+        :yukihiro_matsumoto => {}
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => ["C"] , 
+        :yukihiro_matsumoto => {}
       }
     }
 
