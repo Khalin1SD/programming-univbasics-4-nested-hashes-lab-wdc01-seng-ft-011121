@@ -1,4 +1,4 @@
-
+rquire 'pry'
 def hopper
 	programmer_hash = 
  		{
@@ -53,6 +53,7 @@ def adding_matz
 end
 
 def changing_alan
+  binding.pry 
   # change what Alan Kay is :known_for to the value of the alans_new_info variable. 
   # return the entire updated hash
 
@@ -71,7 +72,6 @@ def changing_alan
         :languages => ["C"]
       }
     }
-programmer_hash[:alan_kay][:known_for] = "GUI"
 end
 
 def adding_to_dennis
