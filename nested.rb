@@ -35,7 +35,7 @@ def adding_matz
       :grace_hopper => {
         :known_for => "COBOL",
         :languages => ["COBOL", "FORTRAN"] ,
-        :yukihiro_matsumoto
+        :yukihiro_matsumoto => {}
       },
       :alan_kay => {
         :known_for => "Object Orientation",
