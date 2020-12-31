@@ -68,7 +68,7 @@ def changing_alan
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C", "Assembly"]
+        :languages => ["C"]
       }
     }
 end
@@ -89,7 +89,7 @@ def adding_to_dennis
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => ["C", "Assembly"]
       }
     }
 
