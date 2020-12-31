@@ -34,7 +34,7 @@ def adding_matz
  		{
       :grace_hopper => {
         :known_for => "COBOL",
-        :languages => ["COBOL", "FORTRAN"]
+        :languages => ["COBOL", "FORTRAN"] ,
         :yukihiro_matsumoto => {}
       },
       :alan_kay => {
